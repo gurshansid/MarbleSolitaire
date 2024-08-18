@@ -1,9 +1,9 @@
 <h1>Marble Solitaire Implementation</h1>
 
- ### [YouTube Demonstration](https://youtu.be/-4A7Mi9vBm0) 
+ ### [YouTube Demonstration](https://youtu.be/wmTwfXpvn6I) 
 
 <h2>Description</h2>
-This is a puzzle game which includes a power bank that must power up all of the wires on the game baord. At the start of each game a unique solution is generated and scrambled up for the user to figure out. To win, the user clicks on individual tiles to rotate wires until all wires are connected and powered! The user can also use the arrow keys to move the move the power bank and diplay different lighting effects and gradients. The score will also be diplayed real-time as the game continues in the top right. Good luck!
+This is an implementation of two versions of marble solitaire. The tutorial shows the English Solitaire game being played with a GUI. There is also a Triangle Solitaire version implemented within the code that can be played using the command line. The premise of the game is simple. Move marbles to end up with the least amount of marbles on the board. A valid move can be executed when a marble can move two spaces away to an empty spot when an another marble is in between the original marble and the empty space. The score is kept in the bottom left, the game status is displayed at the bottom, and the selected marble is highlighted in black.
 <br />
 
 
@@ -21,19 +21,15 @@ This is a puzzle game which includes a power bank that must power up all of the 
 
 <p align="center"> 
 Launch the game: <br/>
-<img src="https://i.imgur.com/O9ZMKVD.png" height="60%" width="60%" alt=""/>
+<img src="https://i.imgur.com/XLwCWQv.png" height="60%" width="60%" alt=""/>
 <br />
 <br />
-Click on tiles to rotate and connect wires:  <br/>
-<img src="https://i.imgur.com/PczWjOn.png" height="60%" width="60%" alt=""/>
+Click on the marbles to move them:  <br/>
+<img src="https://i.imgur.com/Twr9DFC.png" height="60%" width="60%" alt=""/>
 <br />
 <br />
-Win the game by solving the puzzle!: <br/>
-<img src="https://i.imgur.com/YHkegjE.png" height="60%" width="60%" alt=""/>
-<br />
-<br />
-Click "f" to give up to display solution!:  <br/>
-<img src="https://i.imgur.com/Tta0DGK.png" height="60%" width="60%" alt=""/>
+Puzzle ends when you either win or no valid moves are left!: <br/>
+<img src="https://i.imgur.com/qSPDcrI.png" height="60%" width="60%" alt=""/>
 <br />
 </p>
 
