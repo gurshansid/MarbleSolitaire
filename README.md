@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/wmTwfXpvn6I) 
 
 <h2>Description</h2>
-This is an implementation of two versions of marble solitaire. The tutorial shows the English Solitaire game being played and its GUI. There is also a Triangle Solitaire version implemented within the code that can be played using the command line. The premise of the game is simple. Move marbles to end up with the least amount of marbles on the board. A valid move can be executed when a marble can move two spaces away to an empty spot when an another marble is in between the original marble and the empty space. The score is kept in the bottom left, the game status is displayed at the bottom, and the selected marble is highlighted black.
+This is an implementation of two versions of marble solitaire. The tutorial shows the English Solitaire game being played and its GUI. There is also a Triangle Solitaire version implemented within the code that can be played using the command line. The premise of the game is simple. Move marbles to end up with the least amount of marbles on the board. A valid move can be executed when a marble can move two spaces away (vertically or horizontally) to an empty spot when an another marble is in between the original marble and the empty space. The score is kept in the bottom left, the game status is displayed at the bottom, and the selected marble is highlighted black.
 <br />
 
 
